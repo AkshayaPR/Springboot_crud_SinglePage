@@ -1,0 +1,5 @@
+com\kgfsl\springbootconfig\SwaggerConfig.class
+com\kgfsl\springbootconfig\model\Employee.class
+com\kgfsl\springbootconfig\repository\EmployeeRepository.class
+com\kgfsl\springbootconfig\controller\HelloWorldController.class
+com\kgfsl\springbootconfig\controller\EmployeeController.class
